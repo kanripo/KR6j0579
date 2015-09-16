@@ -1,20 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:33.539275
+#+DATE: 2015-08-30 20:35:34.684194
 #+TITLE: 佛說稱讚如來功德神呪經
 #+PROPERTY: CBETA_ID T21n1349
 #+PROPERTY: ID KR6j0579
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1349
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0579_T_001-0863a> 
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1349[No.1348]¶
-
- 佛說稱讚如來功德神呪經一¶
-卷¶
+No. 1349 [No. 1348]¶
+佛說稱讚如來功德神呪經一卷¶
 ¶
 唐三藏法師義淨奉　制譯¶
 
@@ -77,9 +75,9 @@ No.1349[No.1348]¶
 契　薩多陀泥　毘吠帝　三曼多寠泥(去)¶
 薩多曷羅謎目帝鉢唎目底　呬囇密麗　牟¶
 薩麗　阿三謎談謎　阿至麗　末至麗　菩¶
-提曷囉　膩薄呼𢮓　摩愈揭喇呬　辛底謗¶
+提曷囉　膩薄呼[打-丁+制]　摩愈揭喇呬　辛底謗¶
 計　醯摩伐底　樹底伐底　達摩震帝　阿¶
-躃㿲箄　曷囉敵箄　塞建陀　毘薄帝¶
+躃[奇*皮]箄　曷囉敵箄　塞建陀　毘薄帝¶
 　莎訶¶
 
 爾時世尊復說頌曰。¶
