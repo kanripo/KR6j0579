@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說稱讚如來功德神經
+#+DATE: 2015-08-30 20:35:33.740389
+#+PROPERTY: JUAN 0
